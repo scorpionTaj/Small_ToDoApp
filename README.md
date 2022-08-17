@@ -1,8 +1,8 @@
 # Simple TODO List
 
-Dumb todo list that I made, tags included, EaRlY AcCeSs
+Dumb todo list that I made, tags included, Early Access
 
-![](public/tiny-todo.png)
+![image](https://user-images.githubusercontent.com/96800858/185135804-b425d606-5a90-4bd3-86a0-8c7908a65945.png)
 
 ## Features
 - Todo with a tag to organize things
@@ -14,3 +14,5 @@ Dumb todo list that I made, tags included, EaRlY AcCeSs
 - allow user to theme it
 - option to set deadline on todo
 - notifications
+
+## That's it
