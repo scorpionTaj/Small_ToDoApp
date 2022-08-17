@@ -1,0 +1,32 @@
+html,
+body {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.body {
+    margin-left: 36px;
+    height: inherit;
+    display: flex;
+    padding-right: 0.725em;
+    padding-left: 0.725em;
+}
+
+body {
+    background-color: #2a56cf;
+}
+
+body * {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+    height: 100%;
+    margin: 0;
+}
+
+.head {
+    height: inherit;
+}

@@ -1,0 +1,8 @@
+.todo-main-container {
+    max-width: 26rem;
+    background-color: #8192f5;
+    padding: 2rem;
+    border-radius: 6px;
+    margin: auto;
+    width: 100%;
+}
